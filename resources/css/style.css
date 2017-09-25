@@ -21,13 +21,14 @@ h3 {
   color: gray;
   font-size: 21px;
 }
-.link1 {
+p.link1 {
     color: aquamarine;
     font-size: 15px
 }
-p {
-    color: grey;
+.footer {
+    color: gray;
     font-size: 21px
+    text-align:right;
 }
 
 img {
