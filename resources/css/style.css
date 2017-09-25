@@ -2,6 +2,7 @@ body {
   font-family: Verdana;
   background-color: Black;
   text-align: center;
+  color: white
   }
 
 h1 {
@@ -20,10 +21,15 @@ h3 {
   color: gray;
   font-size: 21px;
 }
-p {
+.link1 {
     color: aquamarine;
     font-size: 15px
 }
+p {
+    color: grey;
+    font-size: 21px
+}
+
 img {
   align-content: center;
 }
